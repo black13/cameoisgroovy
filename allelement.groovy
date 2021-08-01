@@ -15,8 +15,11 @@ try {
     classes = Finder.byTypeRecursively().find(project.getPrimaryModel(),Class);
     //give the name of each element.
     for(Element classElem : classes) {
- 
+       Application.getInstance().getGUILog().log(classElem.getName());
     }
+    
+    Application.getInstance().getGUILog().log("":classes[0].getName());
+    //getClassType().getSimpleName();
 }
 
 finally

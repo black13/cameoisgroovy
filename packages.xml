@@ -1,0 +1,34 @@
+<Packages shelf = 'New Arrivals'> 
+   <Package title = 'Enemy Behind'> 
+      <type>War, Thriller</type> 
+      <format>DVD</format> 
+      <year>2003</year> 
+      <rating>PG</rating> 
+      <stars>PG</stars> 
+      <description>10</description> 
+   </Package> 
+   <Package title = 'Transformers'> 
+      <type>Anime, Science Fiction</type> 
+      <format>DVD</format> 
+      <year>1989</year>
+	  <rating>R</rating> 
+      <stars>R</stars> 
+      <description>8</description> 
+   </Package> 
+   <Package title = 'Trigun'> 
+      <type>Anime, Action</type> 
+      <format>DVD</format> 
+      <year>1986</year> 
+      <rating>PG</rating> 
+      <stars>PG</stars> 
+      <description>10</description> 
+   </Package> 
+   <Package title = 'Ishtar'> 
+      <type>Comedy</type> 
+      <format>VHS</format> 
+      <year>1987</year> 
+      <rating>PG</rating> 
+      <stars>PG</stars> 
+      <description>2</description> 
+   </Package> 
+</Packages> 
